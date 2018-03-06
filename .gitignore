@@ -1,0 +1,7 @@
+*.log
+*.db
+*.json
+*.txt
+__pycache__/
+.vscode/
+
